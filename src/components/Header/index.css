@@ -1,7 +1,7 @@
 /* Write your CSS code here */
 li {
   list-style-type: none;
-  margin: 20px;
+  margin: 30px;
 }
 .nav-menu {
   display: flex;
