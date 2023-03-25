@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+li {
+  list-style-type: none;
+  margin: 20px;
+}
+.nav-menu {
+  display: flex;
+  justify-content: center;
+}
